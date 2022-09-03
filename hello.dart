@@ -8,12 +8,12 @@ void main() {
 
   print(total);
 
-  // Concatenacao de texto
+  // Concatenação de texto
 
   var palavras = "Hello" + "Word";
   print(palavras);
 
-  // Estruturas de decisao
+  // Estruturas de decisão
 
   var isTrue = num1 > num2;
 
